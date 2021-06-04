@@ -7,3 +7,5 @@ fourth line from aws ec2 instance
 7th line from ec2
 8th line. Push without entering password: failed
 9th line. push without ent passwd :  check
+10th line. aftersuccessful to push to github without password
+
