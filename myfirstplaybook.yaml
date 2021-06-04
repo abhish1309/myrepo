@@ -1,0 +1,17 @@
+---
+  - hosts: all
+    become: yes
+    tasks: 
+     - name: to install webservers on ubuntu nodes
+       apt:
+         name: apache2
+         state: present
+
+     - name: to install tree
+       apt:
+         name: tree
+         state: present
+
+
+
+      
