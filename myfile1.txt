@@ -5,4 +5,5 @@ fourth line from aws ec2 instance
 5th line from vs code
 6th line added from aws ec2 instance
 7th line from ec2
-8th line. Push without entering password
+8th line. Push without entering password: failed
+9th line. push without ent passwd :  check
