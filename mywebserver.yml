@@ -9,6 +9,6 @@
 
   - name: to start apache service
     service: 
-      name: apache
+      name: apache2
       state: started
 
