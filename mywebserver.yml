@@ -1,5 +1,5 @@
 ---
-- hosts: all
+- hosts: ubuntu
   become: yes
   tasks:
   - name: to install webserver on ubuntu
@@ -11,4 +11,4 @@
     service: 
       name: apache
       state: started
-      
+
